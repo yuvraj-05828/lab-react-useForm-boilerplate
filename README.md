@@ -23,7 +23,7 @@ The aim of this lab is to use `React Hook Forms` - in order to implement a form.
 
         Here is a demo for you:
 
-        ![email])(https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/react-useForm-email-validation.gif)
+        ![email](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/react-useForm-email-validation.gif)
 
 
 
